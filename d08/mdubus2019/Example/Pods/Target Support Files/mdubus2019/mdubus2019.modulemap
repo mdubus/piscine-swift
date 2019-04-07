@@ -1,0 +1,6 @@
+framework module mdubus2019 {
+  umbrella header "mdubus2019-umbrella.h"
+
+  export *
+  module * { export * }
+}

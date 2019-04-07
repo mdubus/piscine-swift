@@ -1,0 +1,28 @@
+{
+  "name": "mdubus2019",
+  "version": "0.1.0",
+  "summary": "Just a pod for d08 of piscine Swift - School 42.",
+  "swift_version": "4.0",
+  "description": "This is a pod for the day 08 of the piscine Swift. It will be used to manage Articles in a Diary.",
+  "homepage": "https://www.42.fr",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Morgane DUBUS": "mdubus@student.42.fr"
+  },
+  "source": {
+    "git": "https://github.com/Morgane DUBUS/mdubus2019.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "mdubus2019/**/*.{h,m,swift,xcdatamodeld}",
+  "frameworks": [
+    "UIKit",
+    "MapKit",
+    "CoreData"
+  ]
+}

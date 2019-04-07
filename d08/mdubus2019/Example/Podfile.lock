@@ -1,0 +1,16 @@
+PODS:
+  - mdubus2019 (0.1.0)
+
+DEPENDENCIES:
+  - mdubus2019 (from `../`)
+
+EXTERNAL SOURCES:
+  mdubus2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mdubus2019: 3af1bec9fbf4426a5d5f8cdef9f461daa7c1f8d2
+
+PODFILE CHECKSUM: 9937252226cca385c10de6038ee8acbf821d3541
+
+COCOAPODS: 1.6.1

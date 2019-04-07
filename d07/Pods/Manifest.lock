@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (4.8.2)
+  - ForecastIO (6.0.0)
+  - ObjectMapper (3.4.2)
+  - sapcai (4.0.0):
+    - Alamofire
+    - ObjectMapper
+
+DEPENDENCIES:
+  - ForecastIO
+  - sapcai
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ForecastIO
+    - ObjectMapper
+    - sapcai
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  ForecastIO: 34eaf556722a92ebb9afa8d360d4c2c7d5f365f9
+  ObjectMapper: 0d4402610f4e468903ae64629eec4784531e5c51
+  sapcai: 4fb897913d393826aea926e9b36c03a6cbfaf62d
+
+PODFILE CHECKSUM: 532ae87a3f63bbcbf532680fdd129b8732ba5e86
+
+COCOAPODS: 1.6.1

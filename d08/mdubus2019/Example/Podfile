@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'mdubus2019_Example' do
+  pod 'mdubus2019', :path => '../'
+
+  target 'mdubus2019_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
