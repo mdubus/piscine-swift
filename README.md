@@ -45,6 +45,6 @@ Diary
 
 48 hours to create an app of the 42's forum
 
-## Rush01 [[subject]](https://github.com/mdubus/piscine-swift/blob/master/rush01/rush01.fr.pdf) [?? /100]
+## Rush01 [[subject]](https://github.com/mdubus/piscine-swift/blob/master/rush01/rush01.fr.pdf) [98 /100]
 
 48 hours to build a GPS app
